@@ -1,1 +1,1 @@
-<?php echo 'nos'; ?>
+<?php echo 'no'; ?>
